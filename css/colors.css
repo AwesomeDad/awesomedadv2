@@ -57,3 +57,6 @@ h6,
 .bg-twitter {background-color:#1D9BF0;}
 .bg-linkedin {background-color:#0A66C2;}
 .bg-email {background-color:#EA4335;}
+
+.experienceList > li:nth-child(2n+1) .escIcnWrap {background-color: #6441a5 ;}
+.btnTheme, .btnThemeOutline:hover, .pgMainNavigation .nav-link::after, .abflcTag, .mscIcnWrap, .hasLineBottom::after, .filtersList > li > a::after, .mcwcCaption::before, .escIcnWrap, .dotsList li.slick-active button, .dotsList button:hover, .nwbcCaption::before, .edot {background-color:#FF0000;}
