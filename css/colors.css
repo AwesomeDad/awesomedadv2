@@ -58,7 +58,8 @@ h6,
 .bg-linkedin {background-color:#0A66C2;}
 .bg-email {background-color:#EA4335;}
 
-.experienceList > li:nth-child(2n+1) .twitch{background-color: #6441a5 ;}
-.experienceList > li:nth-child(2n+2) .indigo {background-color: #d593ff; ;}
-.experienceList > li:nth-child(2n+3) .pink {background-color:#ff26be;}
-.experienceList > li:nth-child(2n+4) .linked {background-color:#0A66C2;}
+.experienceList > li:nth-child(2n+1) .youtube{background-color: #FF0000 ;}
+.experienceList > li:nth-child(2n+2) .twitch{background-color: #6441a5 ;}
+.experienceList > li:nth-child(2n+3) .indigo {background-color: #d593ff; ;}
+.experienceList > li:nth-child(2n+4) .pink {background-color:#ff26be;}
+.experienceList > li:nth-child(2n+5) .linked {background-color:#0A66C2;}
